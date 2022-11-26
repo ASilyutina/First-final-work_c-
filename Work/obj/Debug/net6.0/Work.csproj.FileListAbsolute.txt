@@ -1,0 +1,16 @@
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\1_Final work\Work\bin\Debug\net6.0\Work.exe
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\1_Final work\Work\bin\Debug\net6.0\Work.deps.json
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\1_Final work\Work\bin\Debug\net6.0\Work.runtimeconfig.json
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\1_Final work\Work\bin\Debug\net6.0\Work.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\1_Final work\Work\bin\Debug\net6.0\ref\Work.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\1_Final work\Work\bin\Debug\net6.0\Work.pdb
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\1_Final work\Work\obj\Debug\net6.0\Work.GlobalUsings.g.cs
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\1_Final work\Work\obj\Debug\net6.0\Work.csproj.AssemblyReference.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\1_Final work\Work\obj\Debug\net6.0\Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\1_Final work\Work\obj\Debug\net6.0\Work.AssemblyInfoInputs.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\1_Final work\Work\obj\Debug\net6.0\Work.AssemblyInfo.cs
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\1_Final work\Work\obj\Debug\net6.0\Work.csproj.CoreCompileInputs.cache
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\1_Final work\Work\obj\Debug\net6.0\Work.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\1_Final work\Work\obj\Debug\net6.0\ref\Work.dll
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\1_Final work\Work\obj\Debug\net6.0\Work.pdb
+C:\Users\ASilyutina\Documents\0_personal documents\0_GB\1_Final work\Work\obj\Debug\net6.0\Work.genruntimeconfig.cache
