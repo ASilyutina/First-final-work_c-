@@ -9,5 +9,10 @@
 
 ## Блок схема
 
-![](C:\Users\ASilyutina\Documents\0_personal documents\0_GB\1_Final work\picture.jpg)
+
 ![picture](https://user-images.githubusercontent.com/114189382/204123251-40fe1277-b6b7-4255-9eac-a58c2f626cef.jpg)
+
+
+## Пример вывода программы:
+
+{"hi", "@", "test", ":)", "test2"} -> {hi @ :)}
